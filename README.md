@@ -9,7 +9,7 @@
 
 ## About Me
 - SWE Intern @EventsBridge
-- B.Tech in Computer Science (8th Sem)
+- B.Tech in Computer Science
 - Full Stack Developer (MERN)
 - Passionate about DSA, Web Dev & Tech Communities
 - Google Developer Groups Core Member (2024-25)
