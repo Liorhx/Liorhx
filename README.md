@@ -116,19 +116,6 @@ Scalable CRM platform for lead management and outreach automation.
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Liorhx&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Liorhx&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liorhx&layout=compact&theme=radical" />
-</p>
-
----
-
 # Connect With Me
 
 <p align="center">
@@ -140,9 +127,9 @@ Scalable CRM platform for lead management and outreach automation.
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:rahul.yadav.sde1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahul.yadav.sde1@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
