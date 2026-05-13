@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rahul Yadav
 
-### 🚀 Full Stack Developer | AI Integration Enthusiast | Product Engineer | Performance-Focused APIs | Scalable Backend Systems
+### 🚀 Full Stack Developer | AI Integration Enthusiast | Product Engineer 
 
 <p align="center">
 Building scalable web applications, AI-powered systems, and performance-focused backend architectures using modern JavaScript & Python ecosystems.
