@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rahul Yadav
 
-### 🚀 Full Stack Developer | AI Integration Enthusiast | Product Engineer
+### 🚀 Full Stack Developer | AI Integration Enthusiast | Product Engineer | Performance-Focused APIs | Scalable Backend Systems
 
 <p align="center">
 Building scalable web applications, AI-powered systems, and performance-focused backend architectures using modern JavaScript & Python ecosystems.
@@ -40,7 +40,7 @@ Building scalable web applications, AI-powered systems, and performance-focused 
 - 🧩 Strong interest in system architecture & product engineering
 - 🌍 Google Developer Groups Core Member (DSA/CP)
 - 🏆 GATE 2025 Qualified
-- 🔥 550+ GitHub commits & active contributor
+- 🔥 560+ GitHub commits & active contributor
 
 ---
 
@@ -143,20 +143,6 @@ Scalable CRM platform focused on lead management, outreach automation, and workf
 - Developed secure OTP authentication & financial API integrations
 - Worked on production-grade backend modules and deployments
 - Improved application stability, scalability, and response efficiency
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Liorhx&show_icons=true&theme=github_dark&hide_border=true" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Liorhx&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liorhx&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
