@@ -136,7 +136,7 @@ Scalable CRM platform focused on lead management, outreach automation, and workf
 # 💼 Experience
 
 ## 🚀 Full Stack Developer — EventsBridge
-📅 Aug 2025 – Mar 2026
+📅 April 2025 – Current
 
 - Optimized backend APIs and database queries improving overall system performance
 - Implemented Redis caching and efficient data-fetching strategies
